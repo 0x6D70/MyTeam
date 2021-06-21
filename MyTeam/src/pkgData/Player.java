@@ -13,6 +13,6 @@ public class Player {
 
 	@Override
 	public String toString() {
-		return "== Player [numberPlayer=" + numberPlayer + ", namePlayer=" + namePlayer + ", position=" + position + "]";
+		return "== Player => numberPlayer=" + numberPlayer + ", namePlayer=" + namePlayer + ", position=" + position;
 	}	
 }
